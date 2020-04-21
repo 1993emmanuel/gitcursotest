@@ -1,1 +1,2 @@
-alert("funciona")
+// alert("funciona")
+console.log("funciona")
